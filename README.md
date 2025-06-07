@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nelson</h1>
 <h3 align="center">A passionate front-end developer, Back-end & App developer from Nigeria</h3>
 
-- 🔭 I’m currently working on [blogr_landingpage](https://blogrlandingpage-topaz.vercel.app/)
+- 🔭 I’m currently working on [Reddit Clone](https://blogrlandingpage-topaz.vercel.app/)
 
 - 🌱 I’m currently learning **Ruby on rails**
 
