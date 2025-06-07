@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Ruby on rails**
 
-- 👯 I’m looking to collaborate on [Ecommerce website](https://github.com/Nelson19so/CliconEcommerceWeb)
+- 👯 I’m looking to collaborate on [E-learning website](https://github.com/Nelson19so/CliconEcommerceWeb)
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1-B8YxGKmp4wly-XDMR4LnoYficg1QDGU/view?usp=drive_link](https://drive.google.com/file/d/1-B8YxGKmp4wly-XDMR4LnoYficg1QDGU/view?usp=drive_link)
 
