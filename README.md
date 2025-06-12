@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-B8YxGKmp4wly-XDMR4LnoYficg1QDGU/view?usp=drive_link](https://drive.google.com/file/d/1-B8YxGKmp4wly-XDMR4LnoYficg1QDGU/view?usp=drive_link)
 
-- ⚡ Fun fact **I am always focusing on what's happening**
+- ⚡ Fun fact **I am always building project and ready to collaborate on a new one even.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
