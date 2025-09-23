@@ -49,8 +49,7 @@ I enjoy creating robust backends and visually stunning frontends.
 ---
 
 ## 🌱 Currently Learning
-- **Docker & CI/CD**  
-- **Advanced Backend Patterns** (Caching, Async tasks)  
+- **Docker & CI/CD**
 - **Testing (pytest & Django tests)**  
 - **Machine Learning & AI (Self-driving AI)**  
 
