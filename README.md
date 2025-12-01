@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Nelson | Backend Engineer (Python • Django • AI • Systems)
+# 👋 Hi, I'm Nelson | Software Engineer (Python • Django • AI • Systems • Flutter • React • Vue)
 
-🚀 A backend engineer from Nigeria focused on building **production-level systems**,  
+🚀 A software engineer from Nigeria focused on building **production-level systems**,  
 ranging from full-stack apps to AI-powered platforms and developer tools like databases.
 
-🌍 My goal: **Become a top backend engineer and build high-performance systems used globally.**
+🌍 My goal: **Become a top software engineer and build high-performance systems used globally.**
 
 ---
 
@@ -33,6 +33,7 @@ ranging from full-stack apps to AI-powered platforms and developer tools like da
 ---
 
 ### 3. 🌐 Social Media App with AI Feed Ranking
+- Flutter front-end 
 - Django backend  
 - Post ranking using recommendation models  
 - Realtime notifications  
@@ -132,7 +133,6 @@ ranging from full-stack apps to AI-powered platforms and developer tools like da
 ---
 
 ## 📫 Connect With Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://nelson-portfolio-phi.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-junior-700b67363)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelson19so)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelsonsomto19@email.com)
