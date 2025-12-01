@@ -1,33 +1,109 @@
-# Hi there, I'm Nelson 👋
+# 👋 Hi, I'm Nelson | Backend Engineer (Python • Django • AI • Systems)
 
-**`Full-Stack Developer | Backend (Django, DRF) | Frontend (React, Vue, Flutter)`**
+🚀 A backend engineer from Nigeria focused on building **production-level systems**,  
+ranging from full-stack apps to AI-powered platforms and developer tools like databases.
 
-I'm a **19-year-old full-stack developer** who builds **scalable web apps, mobile apps, and APIs** using modern technologies like **Django, React, and Flutter**.  
-I enjoy creating robust backends and visually stunning frontends.
+🌍 My goal: **Become a top backend engineer and build high-performance systems used globally.**
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 2026 Projects (All Production-Ready)
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### 1. 🔥 AI-Powered Chat Application (Realtime + ML)
+- Django / DRF backend  
+- WebSockets (Django Channels)  
+- AI auto-replies, recommendations, sentiment analysis  
+- Flutter mobile + React web client  
+- Redis for scaling messages  
+- Deployed on Docker + Render/AWS  
 
-### **Backend**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+➡️ *Objective*: Show realtime systems + AI integration (high-value for US companies)
+
+---
+
+### 2. 📘 E-Learning Platform with AI Tutor
+- Django backend, React frontend  
+- AI course recommender  
+- AI chat-tutor & personalized learning  
+- Payments (Stripe/Paystack)  
+- Course progress tracking + analytics  
+
+➡️ *Objective*: Show advanced backend logic + machine learning usage.
+
+---
+
+### 3. 🌐 Social Media App with AI Feed Ranking
+- Django backend  
+- Post ranking using recommendation models  
+- Realtime notifications  
+- User graph network + suggestions  
+- Image optimization  
+
+➡️ *Objective*: Demonstrate scaling, data modeling, and feed algorithms.
+
+---
+
+### 4. 💼 SaaS Resume Builder (Subscription-Based)
+- Django/DRF + React  
+- AI-generated resume content (OpenAI API)  
+- Stripe recurring billing  
+- Real admin dashboard  
+- Production CI/CD pipeline  
+
+➡️ *Objective*: Show you can build a real SaaS business product.
+
+---
+
+### 5. 🦍 GorillaDB — Lightweight Database Engine (C++)
+- Custom B-Tree or Hash index  
+- Simple SQL-like parser  
+- File-based storage engine  
+- Query execution pipeline  
+
+➡️ *Objective*: Show deep systems engineering knowledge.
+
+---
+
+### 6. 🔍 AI Search Engine (2027)
+- Vector search  
+- Embeddings  
+- Ranking model  
+- Caching layer  
+- Backend + UI  
+
+➡️ *Objective*: Show advanced AI systems + backend indexing.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Backend & Systems**
+- Python, Django, DRF  
+- FastAPI  
+- C++ (Database & systems)  
+- Redis, Postgres  
+- Docker, CI/CD  
+- WebSockets  
+
+### **AI / ML**
+- Transformers  
+- Recommender systems  
+- Embedding models  
+- LLM APIs (OpenAI, Gemini)
 
 ### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+- React  
+- TailwindCSS  
+- Flutter  
+
+---
+
+## 📫 Let's Connect
+- **Portfolio:** https://nelson-portfolio-phi.vercel.app  
+- **LinkedIn:** https://linkedin.com/in/nelson-junior-700b67363  
+- **Email:** nelsonsomto19@email.com  
+
+---![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
