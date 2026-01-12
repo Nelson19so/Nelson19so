@@ -100,7 +100,7 @@ ranging from full-stack apps to AI-powered platforms and developer tools like da
 ---
 
 ## 📫 Let's Connect
-- **Portfolio:** https://nelson-portfolio-phi.vercel.app  
+- **Portfolio:** https://my-portfolio-opal-ten-38.vercel.app/  
 - **LinkedIn:** https://linkedin.com/in/nelson-junior-700b67363  
 - **Email:** nelsonsomto19@email.com  
 
