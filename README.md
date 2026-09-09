@@ -5,7 +5,7 @@
 I’m a Computer Science student and software engineer passionate about building scalable backend architectures, high-performance web applications, and cross-platform mobile systems. I love turning complex architectural challenges into clean, efficient, and production-ready code.
 
 📍 **Open to:** Remote  
-🎯 **Career Goal:** Software Engineering Roles in California & Global Tech  
+🎯 **Career Goal:** Software Engineering Roles in big tech companies & Global Tech  
 🎓 **Education:** B.Sc. Computer Science, Enugu State University of Science and Technology (ESUT) (Expected 2027)
 
 ---
